@@ -6,3 +6,6 @@ Please feel free to look through the content in the folders and see what models 
 Current Projects in the Repo
 # Heart Disease Prediction via Logistic Regression.
 This project highlights logistic regression in determing wheter a patient's blood markers, physical status, and diet can predict having heart disease.
+
+# Diagnosing Diabetes via Blood CBC Data.
+Given Whole CBC Data (Complete Blood Cell) tests, I utilize Random Cut Machine learning analysis techniques to determine if a patient is at risk of having Diabetes. 
