@@ -24,3 +24,6 @@ Given images of pizza and images that are not pizza - We predict if given images
 
 # Twitter User Gender prediction given off user tweets.  
 In this dataset, we are given tweets and the provided gender of the twitter user. We attempt at determining if we can predict the user's gender off these tweets and find useful features that may seperate the two if there are any.
+
+# The Office IMDB Score Prediction
+This script predicts IMDb ratings for episodes of "The Office" using a Linear Regression model. It preprocesses episode descriptions with TF-IDF vectorization and combines them with numerical features like season and episode number to train and evaluate the model.
