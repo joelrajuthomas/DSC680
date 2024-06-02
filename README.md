@@ -12,3 +12,6 @@ Given Whole CBC Data (Complete Blood Cell) tests, I utilize Random Cut Machine l
 
 # Determining Student Satisfaction using Machine Learning over Survey Respondents
 Given a dataset from students, we determine positive/negative trends amongst answers provided for satisfaction surveys to further enhance school board's ability to improve metrics for following years curriculums. 
+
+# Predict Cat/Dog images using TensorFlow 
+With a selection of 2500 cat and dog images, we are able to train a model using an Image Data generator to classify these images to flattened binary files. They are then tested on single images to determine if they are indeed a cat or dog image. 
