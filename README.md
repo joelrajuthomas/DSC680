@@ -27,3 +27,12 @@ In this dataset, we are given tweets and the provided gender of the twitter user
 
 # The Office IMDB Score Prediction
 This script predicts IMDb ratings for episodes of "The Office" using a Linear Regression model. It preprocesses episode descriptions with TF-IDF vectorization and combines them with numerical features like season and episode number to train and evaluate the model.
+
+# College Basketball Metrics
+We make a bar chart shows how many teams ended up in each postseason ranking category, giving us a sense of the distribution. A correlation heatmap reveals which features are most related to postseason success. A scatter plot compares predicted rankings with actual ones, visually checking our model's accuracy; and a bar chart highlights the importance of each feature in predicting rankings.
+
+
+
+
+
+
