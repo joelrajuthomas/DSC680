@@ -21,3 +21,6 @@ Given a dataset of steam sales from game releases, we attempt to predict prices 
 
 # Pizza or Not Pizza! TensorFlow Image Prediction
 Given images of pizza and images that are not pizza - We predict if given images are pizza or not!
+
+# Twitter User Gender prediction given off user tweets.  
+In this dataset, we are given tweets and the provided gender of the twitter user. We attempt at determining if we can predict the user's gender off these tweets and find useful features that may seperate the two if there are any.
