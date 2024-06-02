@@ -18,3 +18,6 @@ With a selection of 2500 cat and dog images, we are able to train a model using 
 
 # Steam Game Price Prediction based off historical Steam prices for games
 Given a dataset of steam sales from game releases, we attempt to predict prices for games by only knowing their initial features of the game.
+
+# Pizza or Not Pizza! TensorFlow Image Prediction
+Given images of pizza and images that are not pizza - We predict if given images are pizza or not!
