@@ -9,3 +9,6 @@ This project highlights logistic regression in determing wheter a patient's bloo
 
 # Diagnosing Diabetes via Blood CBC Data.
 Given Whole CBC Data (Complete Blood Cell) tests, I utilize Random Cut Machine learning analysis techniques to determine if a patient is at risk of having Diabetes. 
+
+# Determining Student Satisfaction using Machine Learning over Survey Respondents
+Given a dataset from students, we determine positive/negative trends amongst answers provided for satisfaction surveys to further enhance school board's ability to improve metrics for following years curriculums. 
