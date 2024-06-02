@@ -31,6 +31,8 @@ This script predicts IMDb ratings for episodes of "The Office" using a Linear Re
 # College Basketball Metrics
 We make a bar chart shows how many teams ended up in each postseason ranking category, giving us a sense of the distribution. A correlation heatmap reveals which features are most related to postseason success. A scatter plot compares predicted rankings with actual ones, visually checking our model's accuracy; and a bar chart highlights the importance of each feature in predicting rankings.
 
+# Visualizations and Explanations of Nintendo Switch Games
+I take a large excel of video games done by Nintendo Switch and provide cool visualization with explanations!
 
 
 
